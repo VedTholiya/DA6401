@@ -9,5 +9,7 @@ Report --- https://wandb.ai/ma23c047-indian-institute-of-technology-madras/DA640
 
 ### Dataset
 Two datasets have been used in the assignment Fashion MNIST and MNIST
+
+
 from keras.datasets import fashion_mnist
 from keras.datasets import mnist
